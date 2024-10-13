@@ -4,7 +4,9 @@ DocScribe is a MERN application that enables users to register,book appointments
  the database and Express.js for the backend API.– Notification System: Implemented a notification system for doctors to view their appointments in real-time.
 
 Group Project :-
+
 Team Members:
+
 @INam1995      
          
 @Mansimaavi
