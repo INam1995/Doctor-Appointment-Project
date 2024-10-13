@@ -5,6 +5,8 @@ DocScribe is a MERN application that enables users to register,book appointments
 
 Group Project :-
 Team Members:
-@INam1995               
+@INam1995      
+         
 @Mansimaavi
+
 @moyush-b
